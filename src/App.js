@@ -172,7 +172,7 @@ const viewBoxHeight = graphHeight + margin * 2;
      id={`vertex-${vertex.id}`}
      cx={vertex.x}
      cy={-vertex.y}
-     r="5"
+     r="10"
      fill="red"
      onMouseDown={(e) => handleMouseDown(e, vertex.id)}
    />
