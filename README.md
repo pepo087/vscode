@@ -4,11 +4,11 @@
 
 
 
-## utilizzo algoritmo bellman-ford (in giallo il percorso migliore)
+#### utilizzo algoritmo bellman-ford (in giallo il percorso migliore)
 
-## implementazione librerie d3 per renderizzare
+#### implementazione librerie d3 per renderizzare
 
-## uso di framework react 
+#### uso di framework react 
 
 ### ecco il risultato [link](https://4hw55v-3000.csb.app)
 
