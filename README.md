@@ -2,9 +2,9 @@
 # vscode
 =======
 # Getting Started with Create React App
-utilizzo algoritmo bellman-ford
-implementazione librerie d3 per renderizzare
-uso di framework react 
+#utilizzo algoritmo bellman-ford
+#implementazione librerie d3 per renderizzare
+#uso di framework react 
 
 
 
