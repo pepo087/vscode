@@ -2,6 +2,12 @@
 # vscode
 =======
 # Getting Started with Create React App
+utilizzo algoritmo bellman-ford
+implementazione librerie d3 per renderizzare
+uso di framework react 
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
