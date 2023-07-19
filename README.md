@@ -3,7 +3,7 @@
 
 
 
-#### utilizzo [algoritmo bellman-ford](https://it.wikipedia.org/wiki/Algoritmo_di_Bellman-Ford) (in giallo il percorso migliore)
+#### utilizzo [algoritmo bellman-ford](https://it.wikipedia.org/wiki/Algoritmo_di_Bellman-Ford) (in giallo il percorso migliore tra il vertice 0 e il vertice 4)
 
 #### implementazione librerie [d3](https://d3js.org/getting-started) per renderizzare
 
