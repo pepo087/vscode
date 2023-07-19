@@ -5,7 +5,7 @@
 
 #### utilizzo [algoritmo bellman-ford](https://it.wikipedia.org/wiki/Algoritmo_di_Bellman-Ford) (in giallo il percorso migliore)
 
-#### implementazione librerie [d3](d3js.org/getting-started) per renderizzare
+#### implementazione librerie [d3](https://d3js.org/getting-started) per renderizzare
 
 #### uso di framework react 
 
