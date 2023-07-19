@@ -4,7 +4,7 @@
 
 
 
-## utilizzo algoritmo bellman-ford
+## utilizzo algoritmo bellman-ford (IN GIALLO IL PERCORSO MIGLIORE)
 
 ## implementazione librerie d3 per renderizzare
 
