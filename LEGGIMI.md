@@ -4,7 +4,7 @@
 
 
 
-## utilizzo algoritmo bellman-ford (IN GIALLO IL PERCORSO MIGLIORE)
+## utilizzo algoritmo bellman-ford (in giallo il percorso migliore)
 
 ## implementazione librerie d3 per renderizzare
 
@@ -30,7 +30,7 @@
 
 
 
-// REACT
+ `REACT`
 
 
 
